@@ -28,7 +28,7 @@ This project helped me apply real product thinking:
 ---
 
 📂 GitHub Repo:  
-🔗 [github.com/yourusername/interview-tracker](#)
+🔗 [github.com/krabhi75/interview-tracker](#)
 
 🌐 (Optional) Live Demo:  
 🔗 [Netlify/Vercel/Glide link]
